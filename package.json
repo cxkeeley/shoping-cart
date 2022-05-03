@@ -2,7 +2,7 @@
   "name": "shopping-cart",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "Byron Walker-Mills <byron@evoluted.net>",
+  "author": "Darwin <cxkeeley@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
